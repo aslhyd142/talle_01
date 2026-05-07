@@ -1,2 +1,2 @@
 let numero = 10;
-console.log(numssssero);
+console.log(numero);
