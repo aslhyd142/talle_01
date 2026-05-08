@@ -1,0 +1,5 @@
+print("dijite el numero de horas trabajadas")
+horas = int(input())
+print("dijite el valor de la hora")
+valor = int(input())
+print("el salario del trabajador es: ", horas * valor)

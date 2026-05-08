@@ -1,0 +1,6 @@
+print("dijite el primer numero")
+n1 = int(input())
+print("dijite el segundo numero")
+n2 = int(input())
+print("el intercambio seria: ", n1, n2)
+print("el resultado de el intercambio de los numeros es: ", n2, n1)

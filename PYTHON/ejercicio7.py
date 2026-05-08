@@ -1,0 +1,7 @@
+print("dijite el primer numero")
+n1 = int(input())
+print("dijite el segundo numero")
+n2 = int(input())
+print("dijite el tercer numero")
+n3 = int(input())
+print("el resultado de el promedio de los numeros es: ", (n1 + n2 + n3) / 3)
