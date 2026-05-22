@@ -1,7 +1,3 @@
-n=3
-sum=0
-for(let i=0; i<=n; i++){
-    sum = sum + i  ;
-    console.log("números de digitos: " + sum);
-    
-}
+numero="78";
+let cantidad= numero.length;
+console.log("cantidad de digitos: " + cantidad);
