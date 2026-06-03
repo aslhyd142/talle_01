@@ -1,4 +1,4 @@
-// Generar número aleatorio entre 1 y 10
+
 const numeroSecreto = Math.floor(Math.random() * 10) + 1;
 
 let intento = 0;
